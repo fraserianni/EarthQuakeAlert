@@ -47,8 +47,7 @@ The goal of this project is to understand how to:
 
 ## Notes
 
-This is an experimental and educational project.  
-It is not intended for real-world safety or operational use.
+This is an experimental project. 
 
 ## Author
 
